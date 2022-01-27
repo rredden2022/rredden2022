@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rredden2022
+- 👀 I’m interested in speaking to enthusiastic SW Engineers with deep Java and Kubernetes expertise.
+- 🌱 I’m currently learning where the best Developers congregate online
+- 💞️ I’m looking to collaborate on Career Advancement conversations.
+- 📫 How to reach me rredden@google.com
+--->
